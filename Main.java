@@ -9,7 +9,7 @@ class Main {
     System.out.println("Welcome to the Primitive Data Types Quiz! What is your name?");
     Scanner scan = new Scanner(System.in);
     String name = scan.next();
-//---------------------------------------------------
+//--------------------------------------------------
     System.out.println(" #1: What data type deals with whole numbers?");
     String integer = scan.next();
 
